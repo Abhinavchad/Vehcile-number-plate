@@ -1,7 +1,4 @@
 # Vehicle-Number-Plate-Detector-and-Recognizer
-## MOSAIC (IIT BHU Electronics Engineering Society's Technical Fest's Event based on Image processing and Machine learning)
-
-### Problem Statement for Round 2
 
 ### Task
 
